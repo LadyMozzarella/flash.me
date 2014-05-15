@@ -57,5 +57,6 @@ A user can view their past scores by clicking the drop down button (My Round) fr
 - [Brittany Mazza](https://github.com/LadyMozzarella)
 - [Irene Yiu](https://github.com/ireneyiu)
 - [Matthew Knudsen](https://github.com/mknudsen01)
+- [Chermaine Zimmerman](https://github.com/c14jcdj)
 - [Hunter Paull](https://github.com/hpchess)
 - [Harry Whelchel](https://github.com/hwhelchel)
