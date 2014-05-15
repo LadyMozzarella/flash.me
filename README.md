@@ -10,7 +10,7 @@ Visit [Flash.Me](http://cardashians.herokuapp.com)
 
 ###Login or Signup
 
-A user must be logged in in order to play and create decks. The log in or sign up form is available on the home landing page.
+A user must be logged in to play and create decks. The log in or sign up form is available on the home landing page.
 
 ![https://github.com/LadyMozzarella/flash.me/blob/master/images/login.png?raw=true](https://github.com/LadyMozzarella/flash.me/blob/master/images/login.png?raw=true)
 
