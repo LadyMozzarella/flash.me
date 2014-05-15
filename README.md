@@ -6,7 +6,7 @@ Flash.Me is a web based flash card app. Users can create new flash card decks, p
 
 ##Getting Started
 
-Visit (Flash.Me)[http://cardashians.herokuapp.com]
+Visit [Flash.Me](http://cardashians.herokuapp.com)
 
 ###Login or Signup
 
